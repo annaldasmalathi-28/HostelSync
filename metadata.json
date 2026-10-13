@@ -1,0 +1,6 @@
+{
+  "name": "HostelSync — Smart Hostel Management System",
+  "description": "All-in-one smart hostel management platform connecting students, hostel administrators, and maintenance technicians with real-time bed bookings, complaints tracking, meal slots, gym reservations, and AI health guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
